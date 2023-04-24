@@ -1,0 +1,43 @@
+.back{
+    background-color: #ece9e5;
+    margin-top: 10%;
+}
+
+input[type=button]
+    {
+        padding: 0px;
+        border-bottom:4px solid rgb(229, 205, 188);
+        height: 50px;
+        width: 80px;
+
+    }
+input[type=reset]
+{
+    padding: 0px;
+        border-bottom:4px solid rgb(167, 164, 162);
+        height: 50px;
+        width: 80px;
+}
+input[type=text]
+    {
+
+        text-align: right;
+        height: 50px;
+        width: 240px;
+    }
+.control
+    {
+
+        margin:0px auto;
+        height: 350px;
+        width: 367px;
+        background-color:#0e1338;
+        border-radius:12px;
+        border-bottom:4px solid rgb(152, 168, 183);
+    }
+#xoxo{
+    float: left;
+    margin-top:20px;
+    margin-left:20px;
+
+}
